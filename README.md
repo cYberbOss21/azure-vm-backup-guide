@@ -18,6 +18,7 @@ Azure Backup is a **cloud-native, scalable, and secure** solution that eliminate
 The default backup policy schedules **daily backups** and retains them for **30 days**, with **incremental backups** minimizing storage usage. Azure Backup ensures **application consistency**, preventing data corruption for transactional workloads ⚡.
 
 Azure supports **four backup methods**:
+
 1️⃣ **Azure Portal** – GUI-based manual and scheduled backup management 🖥️.  
 2️⃣ **Azure PowerShell** – Enables automated scripting for backups ⚙️.  
 3️⃣ **Azure CLI 2.0** – Provides command-line-based backup operations 📟.  
