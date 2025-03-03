@@ -38,7 +38,11 @@ Security features include:
 
 ## 🎯 Who Should Use This Guide?
 This repository is intended for:
+
 👨‍💻 Cloud engineers deploying backup strategies in Azure.
+
 🛠️ IT administrators managing VM protection and disaster recovery.
+
 🚀 DevOps professionals automating backup policies with PowerShell, CLI, or ARM templates.
+
 🔐 Security teams ensuring compliance and data retention best practices.
